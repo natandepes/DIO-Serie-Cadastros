@@ -1,1 +1,2 @@
-# DIO-Serie-Cadastros
+# Aplicação simples de cadastro de séries
+ - O último desafio de projeto do Bootcamp GFT Start .NET #5 era desenvolver uma aplicação de cadastro de séries, ou filmes, ou algo do gênero. Foi relativamente parecido com o jeito que eu fiz o projeto da Dungeon deles, mas achei menos organizado e mais trabalhoso. Enfim, não é nada miraculoso, é um dos meus primeiros projetos então acredito estar tendo um bom progresso.
